@@ -1,0 +1,12 @@
+.task-list {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.empty-list {
+  text-align: center;
+  color: #999;
+  font-size: 18px;
+  margin-top: 40px;
+}

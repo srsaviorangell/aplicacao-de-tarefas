@@ -1,0 +1,24 @@
+.home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.home-container h1 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.btn-add {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-bottom: 30px;
+}
+
+.btn-add:hover {
+  background-color: #45a049;
+}
